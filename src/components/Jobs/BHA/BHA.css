@@ -1,0 +1,56 @@
+#simple-tab-0,#simple-tab-1,#simple-tab-2,
+#simple-tab-3,#simple-tab-4,#simple-tab-5,
+#simple-tab-6,#simple-tab-7,#simple-tab-8,
+#simple-tab-9{
+    border: 2px solid black;
+    color: black;
+    margin-left: 2px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: -internal-light-dark(rgb(239, 239, 239), rgb(59, 59, 59));
+}
+/* .MuiTab-wrapper {
+    width: 56%;
+} */
+#simple-tab-0 {
+    min-width: 30px;
+    padding: 6px 0px;
+}
+#simple-tab-0 > span{
+    width: 30%;
+}
+#simple-tab-1{
+    min-width: 30px;
+    padding: 6px 10px;
+    height: 19px;
+    margin-top: 30px;
+}
+#simple-tab-2,#simple-tab-7,#simple-tab-9{
+    min-width: 30px;
+    padding: 6px 6px;
+    height: 19px;
+    margin-top: 30px;
+}
+#simple-tab-3,#simple-tab-4,#simple-tab-5,#simple-tab-6,#simple-tab-8{
+    min-width: 30px;
+    padding: 6px 1px;
+}
+#simple-tab-3 > span,
+#simple-tab-4 > span,
+#simple-tab-5 > span,
+#simple-tab-6 > span{
+    width: 99%;
+}
+#simple-tab-8> span{
+    margin:-6px
+}
+/* #simple-tab-1{
+    border: 1px solid black;
+    border: 2px solid black;
+    color: black;
+    margin: 20px;
+} */
+/* #s#simple-tab-2 */
+.MuiPaper-root.MuiAppBar-root.MuiAppBar-positionStatic.MuiAppBar-colorPrimary.MuiPaper-elevation4{
+    background-color: #fff;
+}

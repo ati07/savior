@@ -1,0 +1,9 @@
+.App {
+  text-align: left;
+  /* display: flex; */
+  /* flex-direction: column; */
+}
+.panel{
+  display: flex;
+}
+

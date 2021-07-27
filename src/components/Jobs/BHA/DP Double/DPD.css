@@ -1,0 +1,19 @@
+#simple-tabpanel-8 > div {
+  padding: 2px;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.table_DPD {
+  width: 100%;
+}
+.th {
+  width: 20px;
+  background-color: #1a487d;
+  height: 45px;
+}

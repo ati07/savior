@@ -1,0 +1,28 @@
+.Header{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    background: linear-gradient(
+90deg
+, #045592 0%, #1166a7 35%, #07468a 100%);
+    height: 64px;
+    width: 100%;
+    justify-content: space-between;
+}
+.left{
+    color: white;
+    font: 400 25px/28px Roboto, "Helvetica Neue", sans-serif;
+    letter-spacing: normal;
+    margin-left: 20px;
+}
+.middle{
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 7px;
+    
+    font-weight: 400;
+    font: 400 35px/28px Roboto, "Helvetica Neue", sans-serif;
+}
+.MuiSvgIcon-root{
+    color: black;
+}

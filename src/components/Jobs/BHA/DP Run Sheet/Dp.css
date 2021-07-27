@@ -1,0 +1,29 @@
+#simple-tabpanel-5> div {
+    padding: 2px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+.heading{
+    font-size: 15px;
+    height: 65px;
+}
+.input{
+    width:90px;
+    height: 36px;
+    display: block;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0rem !important;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}

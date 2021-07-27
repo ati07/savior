@@ -1,0 +1,30 @@
+.dashboard >svg{
+    position: absolute;
+    right: 0;
+    margin-right: 204px;
+    top: 190px;
+    
+}
+.dashboard{
+    width:100%;
+}
+.dashboard > h2{
+    /* margin: auto; */
+    margin-left: 300px;
+    align-items: center;
+    justify-items: center;
+    padding: 10px;
+
+}
+.Card{
+    display: flex;
+    margin: 10px;
+}
+.row{
+    display: flex;
+    margin: 10px;
+}
+.table{
+    width: 750px;
+    margin: 5px;
+}

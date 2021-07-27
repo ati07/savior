@@ -1,0 +1,30 @@
+#simple-tabpanel-2> div {
+    padding: 2px;
+}
+
+.table1 >table{
+    width: 100%;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+.tool{
+  /* display: flex; */
+    /* justify-content: center;
+    height: 32px;
+    padding-top: 15px; */
+}
+
+.table_2{
+    width: 100%;
+
+  }
+  .table_4{
+    width: 550px;
+
+  }
+  .table_5{
+    width: 100%;
+
+  }

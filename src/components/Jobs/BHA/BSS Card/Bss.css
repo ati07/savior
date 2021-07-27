@@ -1,0 +1,15 @@
+#simple-tabpanel-3> div {
+    padding: 2px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  .bss_table{
+    width: 350px;
+
+  }
+  .Bss_table1{
+width: 100%;
+  }
